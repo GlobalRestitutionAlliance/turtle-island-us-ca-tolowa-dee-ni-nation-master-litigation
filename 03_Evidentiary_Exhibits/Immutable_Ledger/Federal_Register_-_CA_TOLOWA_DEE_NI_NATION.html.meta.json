@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+TOLOWA+DEE+NI+NATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+TOLOWA+DEE+NI+NATION",
+  "title": "Federal Register - CA TOLOWA DEE NI NATION",
+  "fetched_at": "2026-11-23T18:02:46.643279Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 169809,
+  "sha256": "0e79b5a3abdf93ec63c947cf1a7922ef727b912f9a6f27a9b29a37be02db2bc3",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
